@@ -1,3 +1,5 @@
+#summary Explanation of the SDK and its layers
+
 = Layers in the SDK =
 
 The EzAz SDK is divided into several layers:
