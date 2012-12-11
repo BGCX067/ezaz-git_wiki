@@ -5,7 +5,7 @@
 Welcome to !EzAz - the modular and flexible authorization SDK.
 
 
-= Details =
+= More information =
 
-* [LayersInTheSDK Explanation of how the SDK's different layers and what they are used for.]
-* [Example1 - Simple code example of how to use the SDK in order to make a request.]
+  * [LayersInTheSDK Explanation of how the SDK's different layers and what they are used for.]
+  * [Example1 Simple code example of how to use the SDK in order to make a request.]
