@@ -1,3 +1,5 @@
+#summary Using the SDK: A simple code example
+
 = A simple Example =
 
 Itching to get started? Let's take a look at a sample program that initializes the SDK, constructs a request, sends the request to a PDP and then evaluates the answer.
