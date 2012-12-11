@@ -12,7 +12,9 @@ As an application developer, you'll be interacting with both Layers. If you have
 
 This figure shows how the layers are organized:
 
-http://code.google.com/p/ezaz/wiki/images/layers.png
+
+
+http://wiki.ezaz.googlecode.com/git/images/layers.png
 
 Even though there are many boxes, it is not difficult to understand. At the top, where it says "Applications or Frameworks" imagine your application.
 
