@@ -2,12 +2,10 @@
 
 = Introduction =
 
-Welcome to EzAz!
+Welcome to !EzAz - the modular and flexible authorization SDK.
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+* [LayersInTheSDK Explanation of how the SDK's different layers and what they are used for.]
+* [Example1 - Simple code example of how to use the SDK in order to make a request.]
