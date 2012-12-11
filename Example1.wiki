@@ -147,4 +147,23 @@ There is a convenience function that we can call on the result, named `isAllowed
 {{{
 // Check whether the response allows our request.
 		System.out.println("IS ALLOWED? "+resp.isAllowed(false));
-}}} 
+}}}
+
+=== Running the example program ===
+
+You should see the following output:
+
+{{{
+PROPERTIES FOR: dummy
+{org.EzAz.pdp.dummy.instanceName=dummy, org.EzAz.pdp.dummy.driver=org.EzAz.Layer3Driver.DummyDriver.DummyDriver}
+Fetching driver: org.EzAz.pdp.dummy.driver
+REQUEST
+  CATEGORY: urn:oasis:names:tc:xacml:1.0:subject-category:access-subject
+    ATTR: subject-id=jack (http://www.w3.org/2001/XMLSchema#string)
+  CATEGORY: urn:oasis:names:tc:xacml:3.0:attribute-category:action
+    ATTR: action-id=print (http://www.w3.org/2001/XMLSchema#string)
+  CATEGORY: urn:oasis:names:tc:xacml:3.0:attribute-category:resource
+    ATTR: resource-type=document (http://www.w3.org/2001/XMLSchema#string)
+    ATTR: resource-id=TPSreport25.xls (http://www.w3.org/2001/XMLSchema#string)
+IS ALLOWED? true
+}}}
